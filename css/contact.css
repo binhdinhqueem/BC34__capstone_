@@ -1,0 +1,21 @@
+.header{
+    z-index: 1;
+}
+.breadcrumb-bg-about{
+    background: url(https://wp.w3layouts.com/corpvision/wp-content/themes/corpvision/assets/images/b1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    position: relative;
+    z-index: 0;
+}
+.header{
+    position: absolute;
+}
+.navbar-nav{
+    margin-left: 290px;
+    padding-top: 30px;
+}
+.header-search{
+    padding-left: 320px;
+    padding-top: 30px;
+}
