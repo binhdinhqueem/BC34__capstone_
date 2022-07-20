@@ -1,0 +1,5 @@
+Thông tin thành viên trong nhóm làm bài:
+1. Huỳnh Minh Hoàng
++ Các phần đã làm phụ trách về mảng trang chủ Home và trang About
+2. Huỳnh Đình Huy
++ Các phần đã làm phụ trách về mảng trang Services và trang Contact
